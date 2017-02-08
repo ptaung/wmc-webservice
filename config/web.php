@@ -197,7 +197,7 @@ $config = [
           'class' => 'Swift_SmtpTransport',
           'host' => 'smtp.gmail.com',
           'username' => 'webapp.contact2267@gmail.com',
-          'password' => 'qw2267er##',
+          'password' => '',
           'port' => '587',
           'encryption' => 'tls',
           ],
