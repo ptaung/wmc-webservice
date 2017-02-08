@@ -1,0 +1,53 @@
+
+//.z-depth-1,nav,.card-panel,.card,.dropdown-content,#index-posts-container article .card-panel .author-thumb,#publisher-info .profile-image-wrapper img{
+//-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+//-moz-box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)}
+
+//@media only screen and (min-width: 0){html{font-size:14px}}
+
+//@media only screen and (min-width: 960px){.flow-text{font-size:1.68rem}}
+//@media only screen and (min-width: 600px){.flow-text{line-height:2.88rem}}
+
+//@keyframes fade-out{from{opacity:1}to{opacity:0}}
+
+//#blog-intro{margin-bottom:2rem;background-size:cover;background-position:center}
+//#blog-intro h1,#blog-intro h2,#blog-intro h3,#blog-intro h4,#blog-intro h5,#blog-intro h6{text-align:center;font-weight:200}#blog-intro .container{vertical-align:middle;min-height:8rem}
+.article-intro{height:16rem;margin-bottom:2rem}.content #main-inner-container{position:relative}
+/*
+.nav li{
+    font-size:14px
+}
+*/
+//.navbar {
+//background:rgba(0,0,0,0.5);   /* for latest browsers */
+//background: #000;  /* fallback for older browsers */
+//}
+
+
+.bs-docs-header{
+    font-size: 24px;
+    text-align: left;
+    position: relative;
+    padding: 30px 15px;
+
+    color: #ffffff;
+    text-shadow: 0 1px 0 rgba(0,0,0,.5);
+    background-color:#F88017;
+
+    background-image: -webkit-linear-gradient(top,#00CD66 0,#00CD66 100%);
+    /*
+    background-image: linear-gradient(to bottom,#F88017 0,#F88017 10%);
+    */
+    background-repeat: repeat-x;
+
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#68838B', endColorstr='#9AC0CD', GradientType=0);
+
+}
+
+.carousel img {
+    position: relative;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 200px;
+}

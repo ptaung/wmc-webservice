@@ -1,0 +1,1 @@
+<iframe class="embed-responsive-item" src="http://wm.spo.go.th/wmc/web/index.php/report/menuitems/wmreport" frameborder="0" width="100%" style="height: 100vh;"></iframe>
