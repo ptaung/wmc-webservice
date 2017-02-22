@@ -12,9 +12,7 @@ class lineBot {
     public $tokenApi = "https://notify-api.line.me/api/notify";
     public $token = "";
 
-    #Za5BXSY2zCic3jD47IYE9eYfDBJZijAeKD1jlKE0HIk รพ.สุพรรณบุรี
-    #T9UgcSoyeOGJ529XEh1Ju4YyINpDAyosac7KyRydv2v @DLS-Datacenter
-    #PJcvPdJEbZ1j2pbcZSXuP9KC5SIPNSGBYvgDk3UefHe  สสอ.สุพรรณบุรี
+
 
     public function send($message) {
         $stickerPackageId = rand(1, 2);
